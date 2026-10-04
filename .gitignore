@@ -1,0 +1,4 @@
+*.vcd
+tx_sim
+rx_check
+*.out
